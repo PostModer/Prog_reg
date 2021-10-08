@@ -1,1 +1,1 @@
-"#Тестовые задания"
+"#Test tasks from Program region"
